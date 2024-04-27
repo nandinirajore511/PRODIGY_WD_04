@@ -18,32 +18,32 @@ const Aside = () => {
   const CONTACTS_LIST = [
     {
       title: "Email",
-      link: "mailto:iamjrtilak@gmail.com",
+      link: "mailto:nandinirajore511@gmail.com",
       icon: <CiMail />,
-      value: "iamjrtilak@gmail.com",
+      value: "nandinirajore511@gmail.com",
     },
     {
       title: "LinkedIn",
-      link: "https://www.linkedin.com/in/jrtilak/",
+      link: "https://www.linkedin.com/in/nandini-rajore-74817524a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       icon: <PiLinkedinLogoLight />,
-      value: "Tilak Thapa",
+      value: "Nandini Rajore",
     },
     {
       title: "Github",
-      link: "https://www.github.com/jrtilak",
+      link: "https://github.com/nandinirajore511",
       icon: <PiGithubLogoLight />,
-      value: "jrTilak",
+      value: "Nandini",
     },
   ];
   const SOCIAK_LINKS = [
     {
       title: "Twitter",
-      link: "https://www.twitter.com/iamjrtilak",
+      link: "#",
       icon: <FaXTwitter />,
     },
     {
       title: "Instagram",
-      link: "https://www.instagram.com/iamjrtilak",
+      link: "#",
       icon: <CiInstagram />,
     },
   ];
@@ -52,12 +52,13 @@ const Aside = () => {
     <aside className="sidebar" data-sidebar ref={sidebarRef}>
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <Image src={AvatarImg} placeholder="blur" alt="jrtilak" />
+          {/* <Image src={AvatarImg} placeholder="blur" alt="nandini" /> */}
+          <img src="https://cdn3.iconfinder.com/data/icons/diverse-cartoon-women-avatars/300/31-512.png" alt="" />
         </figure>
 
         <div className="info-content">
           <h1 className="name" title="Richard hanrick">
-            Tilak Thapa
+            Nandini Rajore
           </h1>
 
           <p className="title">Web Developer</p>

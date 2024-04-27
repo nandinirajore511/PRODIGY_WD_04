@@ -41,22 +41,22 @@ export default function Home() {
     {
       name: "Daniel lewis",
       avatar: image1,
-      text: "Tilak was hired to create a full-stack web app. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. ",
+      text: "Nandini was hired to create a full-stack web app. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. ",
     },
     {
       name: "Jessica miller",
       avatar: image2,
-      text: "I am very happy with the work done by Tilak. He was hired to create a website and he did it very well. He has a lot of experience and is very concerned about the needs of client.",
+      text: "I am very happy with the work done by Nandini. He was hired to create a website and he did it very well. He has a lot of experience and is very concerned about the needs of client.",
     },
     {
       name: "Emily evans",
       avatar: image3,
-      text: "Tilak was hired to create a Next.js web app. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.",
+      text: "Nandini was hired to create a Next.js web app. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.",
     },
     {
       name: "Henry william",
       avatar: image4,
-      text: "I am very happy with the work done by Tilak. He was hired to create a website and he did it very well. He has a lot of experience and is very concerned about the needs of client.",
+      text: "I am very happy with the work done by Nandini. He was hired to create a website and he did it very well. He has a lot of experience and is very concerned about the needs of client.",
     },
   ];
 
@@ -101,7 +101,7 @@ export default function Home() {
 
       <section className="about-text">
         <p>
-          🙋‍♂️ Greetings! I&apos;m Tilak Thapa(jrTilak), a passionate web
+          🙋‍♂️ Greetings! I&apos;m Nandini Rajore(Nandini), a passionate web
           developer with more than 1 years of experience. I specialize web
           development in React and Next.js. I&apos;m also a huge fan of
           open-source. I&apos;m currently looking for opportunities to work as a
